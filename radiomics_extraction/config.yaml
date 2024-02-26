@@ -1,0 +1,3 @@
+log_folder: .\logs
+scan_availability: ..\data_output\scan_and_phase_availability.xlsx
+radiomics_output: .\radiomics_output

@@ -1,0 +1,7 @@
+log_output: ../logs/
+data_output: ../data_output/
+unstructured: 
+structured_pet: 
+structured_ct: 
+endpoints: 
+data_dir: 
