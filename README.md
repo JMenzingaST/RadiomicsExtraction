@@ -25,3 +25,4 @@ After you have created your environment and activated it, please install the req
 
     pip install -r /path/to/requirements.txt
 
+Feel free to reach out to j.j.menzinga@st.hanze.nl for further information.
